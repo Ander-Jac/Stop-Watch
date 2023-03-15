@@ -7,6 +7,7 @@ body {
     background-color: rgb(50,50,50);
 }
 .watch {
+    width: 80vw;
     background-color: rgb(35,35,35);
     border-radius: 3.5vmax;
     display: flex;
@@ -19,7 +20,7 @@ body {
     transform: translate(-50%,-50%);
 }
 .time {
-    font-size: 14vmax;
+    font-size: 14vw;
 }
 .controls {
     margin-top: 5%;
@@ -27,10 +28,10 @@ body {
 }
 .controls button{
     background-color: rgb(200,60,60);
-    margin: 10px;
-    width: 18vmax;
-    height: 7vmax;
-    font-size: 1.7rem;
+    margin: 1vw;
+    width: 18vw;
+    height: 7vw;
+    font-size: 2.5vw;
     font-weight: 600;
     border-radius: 1.5vmax;
 }
